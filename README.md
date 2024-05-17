@@ -8,4 +8,4 @@ A workgroup in the Institute of Technology of the University of Tartu is develop
 
 ## User interface demo
 
-
+![V_20240513_120910_ES5-ezgif com-optimize](https://github.com/ut-ims-robotics/sakk-thesis-2024-robotont-firmware-menu/assets/18077404/263ee89a-77b9-4c8a-8fc0-5103800bce67)
