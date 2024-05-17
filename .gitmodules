@@ -1,0 +1,3 @@
+[submodule "robotont-firmware"]
+	path = robotont-firmware
+	url = https://github.com/robotont/robotont-firmware
