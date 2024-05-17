@@ -1,6 +1,6 @@
 # Development of a user interface for the open robotics platform Robotont 3
 
-This repository contains the firmware created for my bachelor's thesis.
+This repository contains the firmware created for my bachelor's thesis. It can be found in `robotont-firmware` submodule in `src/svc/menu.c`.
 
 ## Thesis overview
 
